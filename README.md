@@ -1,1 +1,1 @@
-# Python_1_Coursework
+This repository composes of all of the courework that I completed during the Spring 2025 semester for this course. This course taught me the basics of Python and how to use it effectively towards a career. For example, if-elif-else statements, while and for loops, basic functions, dictionaries, classes, and object-oriented programming learning. This includes all of the in-class exercises, Programming Assignments, and Exam reviews that I completed for this class at UTSA.
